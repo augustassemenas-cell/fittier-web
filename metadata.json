@@ -1,0 +1,6 @@
+{
+  "name": "FitTier",
+  "description": "FitTier: Daily Tier Score — Track nutrition, workouts, sleep, and mood into one honest 0–100 daily grade (S to F) with progress tracking and AI coaching.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
